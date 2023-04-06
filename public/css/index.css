@@ -48,6 +48,7 @@ body {
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
+	font-size: 1.125em;
 }
 html {
 	overflow-y: scroll;
@@ -151,7 +152,7 @@ header {
 	padding: 1em;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
+	font-size: 1.25em; /* 16px /16 */
 	font-weight: 700;
 	margin-right: 2em;
 }
