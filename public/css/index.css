@@ -91,7 +91,7 @@ a[href]:active {
 }
 
 main {
-	padding: 1rem;
+	padding: 3rem 1rem;
 }
 main :first-child {
 	margin-top: 0;
@@ -149,7 +149,7 @@ header {
 	gap: 1em .5em;
 	flex-wrap: wrap;
 	align-items: center;
-	padding: 1em;
+	padding: 3em 1em;
 }
 .home-link {
 	font-size: 1.25em; /* 16px /16 */
